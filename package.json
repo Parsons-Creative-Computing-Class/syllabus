@@ -1,0 +1,26 @@
+{
+  "name": "parsons-cc-spring2014",
+  "version": "0.0.2",
+  "author": {
+    "name": "Andy Dayton"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-markdown-pdf": "~2.1.1",
+    "matchdep": "~0.3.0",
+    "time-grunt": "~1.0.0",
+    "grunt-release-it": "~0.2.1",
+    "grunt-rename": "~0.1.4"
+  },
+  "parsons": {
+    "subject": "PUCD",
+    "course": "2035",
+    "section": "B",
+    "semester": "SP15",
+    "faculty": "DAYTON"
+  }
+}
