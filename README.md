@@ -1,9 +1,16 @@
-# Advanced JavaScript syllabus
+# Creative Computing
+
+Parsons The New School for Design
+
+Spring 2014
 
 ***See this README with a table of contents [here](http://documentup.com/advanced-js/syllabus).  If you are a teacher or interested in the design of the course, see the [meta](meta.md) document.***
 
-* **Course:** [INFO1-CE9766, NYU SCPS](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
-* **Instructor:** Aidan Feldman, [alf9@nyu.edu](mailto:alf9@nyu.edu)
+
+## Course Info
+
+* **Course:** [PUCD 2035 B / CRN: 7447](https://alvin.newschool.edu/prbn/bwckschd.p_disp_detail_sched?term_in=201430&crn_in=7447)
+* **Instructor:** Andy Dayton, [email](email)
 * **Need help?**
    * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
    * Office Hours during [Hacker Hours](http://hackerhours.org/) (see [Meetup page](http://www.meetup.com/hackerhours/events/calendar/) for schedule)
