@@ -12,6 +12,9 @@
 </head>
 
 <body id="home" class="markdown-body">
-<%=content%>
+	<main role="main">
+		<%=content%>
+	</main>
+	<footer><p>This is version <%=pkg.version%> of this syllabus. <a href="<%=pkg.repository.url%>"">Fork this syllabus on GitHub</a>.</p></footer>
 </body>
 </html>

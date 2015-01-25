@@ -1,6 +1,8 @@
 /*global module:false*/
 module.exports = function(grunt) {
 
+  var pkg = grunt.file.readJSON( 'package.json' );
+
   // enable task timestamps
   require('time-grunt')(grunt);
   // load all grunt tasks
@@ -10,7 +12,7 @@ module.exports = function(grunt) {
   // Project configuration.
   grunt.initConfig({
 
-    pkg: grunt.file.readJSON( 'package.json' ),
+    pkg: pkg,
 
     // output filename based on school requirements
     pdfOutputFilename: '<%= pkg.parsons.subject %>_<%= pkg.parsons.course %>_<%= pkg.parsons.section %>_<%= pkg.parsons.faculty %>_<%= pkg.parsons.semester %>',
@@ -22,7 +24,8 @@ module.exports = function(grunt) {
           template: 'assets/template.jst',
           templateContext: {
             title: '<%=pkg.title%>',
-            styles: grunt.file.read("assets/styles.css")
+            styles: grunt.file.read("assets/styles.css"),
+            pkg: pkg
           }
         },
         files: {
