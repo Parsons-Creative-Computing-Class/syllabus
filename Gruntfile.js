@@ -12,46 +12,35 @@ module.exports = function(grunt) {
 
     pkg: grunt.file.readJSON( 'package.json' ),
 
-    // markdownpdf: {
-    //   options: {},
-    //   syllabus : {
-    //     src: 'README.md',
-    //     dest: 'pdf'
-    //   }
-    // },
+    // output filename based on school requirements
+    pdfOutputFilename: '<%= pkg.parsons.subject %>_<%= pkg.parsons.course %>_<%= pkg.parsons.section %>_<%= pkg.parsons.faculty %>_<%= pkg.parsons.semester %>',
 
-    // md2pdf: {
-    //   options: {},
-    //   syllabus : {
-    //         src: 'README.md',
-    //         dest: 'pdf/<%= pkg.parsons.subject %>_<%= pkg.parsons.course %>_<%= pkg.parsons.section %>_<%= pkg.parsons.faculty %>_<%= pkg.parsons.semester %>.pdf'
-    //   }
-    // },
-
-    marked: {
-      options: {},
+    // markdown -> html
+    markdown: {
       syllabus : {
+        options: {
+          template: 'assets/template.jst',
+          templateContext: {
+            title: '<%=pkg.title%>',
+            styles: grunt.file.read("assets/styles.css")
+          }
+        },
         files: {
-          'index.html' : ['README.md']
+          'dist/<%=pdfOutputFilename%>.html': ['README.md']
         }
       }
     },
 
+    // html -> pdf
     wkhtmltopdf: {
-      options: {},
       syllabus : {
-        src: 'index.html',
-        dest: 'pdf/<%= pkg.parsons.subject %>_<%= pkg.parsons.course %>_<%= pkg.parsons.section %>_<%= pkg.parsons.faculty %>_<%= pkg.parsons.semester %>.pdf'
+        files: {
+          'dist/' : ['dist/<%=pdfOutputFilename%>.html']
+        }
       }
     },
 
-    // rename: {
-    //   syllabus : {
-    //     src: 'pdf/README.pdf',
-    //     dest: 'pdf/<%= pkg.parsons.subject %>_<%= pkg.parsons.course %>_<%= pkg.parsons.section %>_<%= pkg.parsons.faculty %>_<%= pkg.parsons.semester %>.pdf'
-    //   }
-    // },
-
+    // dev mode
     watch: {
       markdown: {
         files: '*.md',
@@ -59,6 +48,7 @@ module.exports = function(grunt) {
       }
     },
 
+    // handle releases
     'release-it' : {
       options: {
         pkgFiles: ['package.json'],
@@ -76,7 +66,7 @@ module.exports = function(grunt) {
   grunt.registerTask('default', ['build']);
 
   // build task
-  grunt.registerTask('build', ['marked', 'wkhtmltopdf']);
+  grunt.registerTask('build', ['markdown', 'wkhtmltopdf']);
 
   // dev task
   grunt.registerTask('dev', ['watch']);

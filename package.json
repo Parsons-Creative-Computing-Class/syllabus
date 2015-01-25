@@ -1,5 +1,6 @@
 {
-  "name": "parsons-cc-spring2014",
+  "name": "parsons-cc-syllabus",
+  "title": "Parsons Creative Computing",
   "version": "0.0.2",
   "author": {
     "name": "Andy Dayton"
@@ -14,7 +15,8 @@
     "time-grunt": "~1.0.0",
     "grunt-release-it": "~0.2.1",
     "grunt-marked": "~0.1.1",
-    "grunt-wkhtmltopdf": "~0.4.0"
+    "grunt-wkhtmltopdf": "~0.4.0",
+    "grunt-markdown": "~0.7.0"
   },
   "parsons": {
     "subject": "PUCD",
