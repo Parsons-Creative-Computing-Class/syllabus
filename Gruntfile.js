@@ -26,7 +26,7 @@ module.exports = function(grunt) {
           }
         },
         files: {
-          'dist/<%=pdfOutputFilename%>.html': ['README.md']
+          'tmp/<%=pdfOutputFilename%>.html': ['README.md']
         }
       }
     },
@@ -35,9 +35,14 @@ module.exports = function(grunt) {
     wkhtmltopdf: {
       syllabus : {
         files: {
-          'dist/' : ['dist/<%=pdfOutputFilename%>.html']
+          'pdf/' : ['tmp/<%=pdfOutputFilename%>.html']
         }
       }
+    },
+
+    // clean up after
+    clean : {
+      syllabus : ['tmp']
     },
 
     // dev mode
@@ -66,7 +71,7 @@ module.exports = function(grunt) {
   grunt.registerTask('default', ['build']);
 
   // build task
-  grunt.registerTask('build', ['markdown', 'wkhtmltopdf']);
+  grunt.registerTask('build', ['markdown', 'wkhtmltopdf', 'clean']);
 
   // dev task
   grunt.registerTask('dev', ['watch']);

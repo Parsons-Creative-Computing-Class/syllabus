@@ -15,8 +15,9 @@
     "time-grunt": "~1.0.0",
     "grunt-release-it": "~0.2.1",
     "grunt-marked": "~0.1.1",
-    "grunt-wkhtmltopdf": "~0.4.0",
-    "grunt-markdown": "~0.7.0"
+    "grunt-wkhtmltopdf": "https://github.com/andyinabox/grunt-wkhtmltopdf/tarball/master",
+    "grunt-markdown": "~0.7.0",
+    "grunt-contrib-clean": "~0.6.0"
   },
   "parsons": {
     "subject": "PUCD",
