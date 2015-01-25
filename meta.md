@@ -41,3 +41,15 @@ This is a vocational class taught in a [major tech hub](https://en.wikipedia.org
 ## Sharing
 
 The material is free to modify and distribute – if you end up using some of all of the material for your own class, training materials, etc., I would love to [hear from you](https://github.com/advanced-js/syllabus/issues/new)!
+
+## Technical Specs
+
+### Markdown to PDF
+
+I'm using [`pandoc`](http://johnmacfarlane.net/pandoc/) to convert the syllabus to PDF (required by my university).
+
+#### Installing `pandoc`
+
+If you're on a Mac and already using [homebrew](http://brew.sh/), try the following:
+
+  brew install pandoc

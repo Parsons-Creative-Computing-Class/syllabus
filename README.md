@@ -1,7 +1,6 @@
 # Creative Computing
 
-Parsons The New School for Design
-
+Parsons The New School for Design  
 Spring 2014
 
 ***See this README with a table of contents [here](http://documentup.com/advanced-js/syllabus).  If you are a teacher or interested in the design of the course, see the [meta](meta.md) document.***
@@ -9,7 +8,7 @@ Spring 2014
 
 ## Course Info
 
-* **Course:** [PUCD 2035 B / CRN: 7447](https://alvin.newschool.edu/prbn/bwckschd.p_disp_detail_sched?term_in=201430&crn_in=7447)
+* **Course:** [PUCD 2035 B](https://alvin.newschool.edu/prbn/bwckschd.p_disp_detail_sched?term_in=201430&crn_in=7447)
 * **Instructor:** Andy Dayton, [email](email)
 * **Need help?**
    * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
