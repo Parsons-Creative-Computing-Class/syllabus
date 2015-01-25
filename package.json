@@ -1,10 +1,10 @@
 {
   "name": "parsons-cc-syllabus",
   "title": "Parsons Creative Computing",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/Parsons-Creative-Computing-Class/syllabus.git"
+    "type": "git",
+    "url": "https://github.com/Parsons-Creative-Computing-Class/syllabus.git"
   },
   "author": {
     "name": "Andy Dayton"
