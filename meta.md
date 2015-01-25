@@ -44,12 +44,6 @@ The material is free to modify and distribute – if you end up using some of al
 
 ## Technical Specs
 
-### Markdown to PDF
+### PDF Generation
 
-I'm using [`pandoc`](http://johnmacfarlane.net/pandoc/) to convert the syllabus to PDF (required by my university).
-
-#### Installing `pandoc`
-
-If you're on a Mac and already using [homebrew](http://brew.sh/), try the following:
-
-  brew install pandoc
+**Requires a pre-install of (wkhtmltopdf)[http://wkhtmltopdf.org/downloads.html].**
