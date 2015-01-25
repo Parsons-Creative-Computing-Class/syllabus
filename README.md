@@ -1,21 +1,23 @@
 Creative Computing
---------------------
+==================
 
 Parsons The New School for Design  
 Spring 2014
 
 Course Info
-===========
+-----------
 
 * **Course:** [PUCD 2035 B](https://alvin.newschool.edu/prbn/bwckschd.p_disp_detail_sched?term_in=201430&crn_in=7447)
-* **Instructor:** Andy Dayton, [email](email)
+* **Instructor:** Andy Dayton
+* **Time:** Tuesdays, 3:50–6:30pm
+* **Location:** 63 Fifth Ave., L106
 
 ### Course Description
 
 This course will introduce students to the building blocks of creative computing within the visual and media environment. Students will learn to create dynamic images, type and interfaces, that can translate into print, web and spatial forms. Through weekly problems, students will learn programming fundamentals that translate in virtually all programming platforms. Primary software platform: JavaScript.
 
 
-## Learning Outcomes
+### Learning Outcomes
 
 _By the end of the semester, students should be able to:_
 
@@ -26,9 +28,24 @@ _By the end of the semester, students should be able to:_
 5. Problem solve with other students
 6. Build on these skills for future work in their own design practice
 
+### Resources
+
+_Nothing here yet._
+
+### Readings
+
+_Nothing here yet._
+
+### Materials
+
+_Nothing here yet._
+
+### Attendance
+
+Per New School policy, 3 or more absences or excessive tardiness will result in a failing grade. If you need to miss class, please email me in advance.
 
 Course Outline
-===============
+--------------
 
 | Week | Date | Topic/Activity | Assignment | Readings |
 | ----:|------|----------------|------------|----------|
@@ -52,7 +69,7 @@ Course Outline
 
 
 Grading
-===========
+--------
 
 You grading will be broken into the following parts:
 
@@ -95,7 +112,7 @@ Work must be completed no later than the seventh week of the following fall seme
 
 
 Divisional, Program, and Class Policies
-=======================================
+----------------------------------------
 
 ### Responsibility
 
