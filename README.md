@@ -71,15 +71,7 @@ Course Outline
 Grading
 --------
 
-You grading will be broken into the following parts:
-
-| Assessment | % |
-|------------|--:|
-| In-class and homework assignments | 15% |
-| Exercises | 20% |
-| Final Project | 30% |
-| In-class Participation and Attitude | 35% |
-
+_Nothing here yet._
 
 ### Grading Standards
 
