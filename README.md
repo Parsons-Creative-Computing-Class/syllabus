@@ -7,7 +7,7 @@ Spring 2014
 Course Info
 -----------
 
-* **Course:** [PUCD 2035 B](https://alvin.newschool.edu/prbn/bwckschd.p_disp_detail_sched?term_in=201430&crn_in=7447)
+* **Course:** [PUCD 2035 B / CRN: 7043](https://alvin.newschool.edu/prbn/bwckschd.p_disp_detail_sched?term_in=201430&crn_in=7447)
 * **Instructor:** Andy Dayton
 * **Time:** Tuesdays, 3:50–6:30pm
 * **Location:** 63 Fifth Ave., L106
@@ -30,43 +30,57 @@ _By the end of the semester, students should be able to:_
 
 ### Resources
 
-_Nothing here yet._
+We will build upon this list of resources on the class page as the semester continues. A few good starting points:
+
+ - **Class page: http://parsons-cc.github.io/**
+ - Stack Overflow: http://stackoverflow.com
+ - Codepen: http://codepen.io
+ - GitHub: http://github.com
+ - A List Apart: http://www.alistapart.com/
 
 ### Readings
 
-_Nothing here yet._
+There is no specific textbook for the course, but I will assign readings that will be discussed in the following lab. Readings will be posted to the class website in PDF format.
 
-### Materials
+### Required Materials
 
-_Nothing here yet._
+  - Please bring a **fully-charged** laptop to every class
+  - You will need to install [Atom](http://atom.io) text editor on your computer
+  - You will need to install [Fetch](https://fetchsoftworks.com/fetch/download/) FTP Client on your computer (I can provide you with a Parsons serial number)
+  - You will need to sign up for a free [GitHub](http://github.com) account
+  - We may also use [git](http://git-scm.com/) at some point, but if so I will cover this in class
 
 ### Attendance
 
 Per New School policy, 3 or more absences or excessive tardiness will result in a failing grade. If you need to miss class, please email me in advance.
 
+### Assignments
+
+In order to facilitate critiques and allow me to provide meaningful in-class feedback, **all completed assignments must be submitted at 12am the day they are due**. That means if your assignment is due for Tuesday's class, you need to turn it in by midnight Monday evening.
+
 Course Outline
 --------------
 
-| Week | Date | Topic/Activity | Assignment | Readings |
-| ----:|------|----------------|------------|----------|
-| 1 | 1/27 | Introduction | Two Texts | none |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
-| 4 |  |  |  |  |
-| 5 |  |  |  |  |
-| 6 |  |  |  |  |
-| 7 |  |  |  |  |
-| 8 |  |  |  |  |
-| 9 |  |  |  |  |
-| 10 |  |  |  |  |
-| 11 |  |  |  |  |
-| 12 |  |  |  |  |
-| 13 |  |  |  |  |
-| 14 |  |  |  |  |
-| 15 |  |  |  |  |
+Below is a rough outline of the semester, subject to change.
 
-
-
+| Week | Date | Topic/Activity | Assignments Due |
+| ----:|------|----------------|------------|
+| 1 | 1/27 | _Cancelled Due to Weather_ | - |
+| 2 | 2/3 | Introduction: Designing Programs, Cooking & Tasting | Assignment 1.1 |
+| 3 | 2/10 | Separation of Concerns: Form/Content/Behavior, CSS/HTML/JavaScript | Assignment 1.2 |
+| 4 | 2/17 | Programming Basics: Variables, Operators, Data Types, Input/Output | Assignment 1.3 |
+| 5 | 2/24 | Difference & Repetition: Loops, Conditionals, and Iteration | Assignment 2.1 |
+| 6 | 3/3 | Where the Rubber Meets the Road: jQuery & the DOM | Assignment 2.2 |
+| 7 | 3/10 | Divide & Conquor: Functions and Refactoring | Research Topic Due |
+| 8 | 3/17 | Review & Catch Up | Assignment 2.3 |
+| - | 3/24 | _No class (Spring Break)_ |  |
+| 9 | 3/31 | Eye Candy: p5.js & the Canvas. _Final Projects Assigned_ | Assignment 3.1 |
+| 10 | 4/7 | Data Discovery: AJAX, JSON, & APIs | Assignment 3.2 |
+| 11 | 4/14 | Assignment 3 Critique, Review  | Assignment 3.3 |
+| 12 | 4/21 | Research Presentations 1, Work Time | Research Project Due |
+| 13 | 4/28 | Research Presentations 1, Work Time | - |
+| 14 | 5/5 | Work Day | - |
+| 15 | 5/12 | Final Critiques | Final Projects Due |
 
 Grading
 --------
@@ -75,10 +89,11 @@ You grading will be broken into the following parts:
 
 | Assessment | % |
 |------------|--:|
-| In-class and homework assignments | 15% |
-| Exercises | 20% |
-| Final Project | 30% |
-| In-class Participation and Attitude | 35% |
+| In-class and Take-home Assignments | 40% |
+| Final Project | 40% |
+| In-class Participation and Attitude | 20% |
+
+_Extra credit may be issued for participating in optional assignments or activities._
 
 
 ### Grading Standards
@@ -151,8 +166,3 @@ It is the responsibility of students to learn the procedures specific to their d
 ### Student Disability Services (SDS)
 
 In keeping with the University’s policy of providing equal access for students with disabilities, any student with a disability who needs academic accommodations is welcome to meet with me privately.  All conversations will be kept confidential.  Students requesting any accommodations will also need to meet with Jason Luchs in the Office of Student Disability Services, who will conduct an intake, and if appropriate, provide an academic accommodation notification letter to you to bring to me.  SDS assists students with disabilities in need of academic and programmatic accommodations as required by the Americans with Disabilities Act of 1990 (ADA) and Section 504 of the Federal Rehabilitation Act of 1973. http://www.newschool.edu/studentservices/disability/.
-
-
-### License
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> and all other materials under https://github.com/parsons-creative-computing-class are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
