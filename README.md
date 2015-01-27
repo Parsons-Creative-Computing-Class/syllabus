@@ -71,7 +71,7 @@ Below is a rough outline of the semester, subject to change.
 | 4 | 2/17 | Programming Basics: Variables, Operators, Data Types, Input/Output | Assignment 1.3 |
 | 5 | 2/24 | Difference & Repetition: Loops, Conditionals, and Iteration | Assignment 2.1 |
 | 6 | 3/3 | Where the Rubber Meets the Road: jQuery & the DOM | Assignment 2.2 |
-| 7 | 3/10 | Divide & Conquor: Functions and Refactoring | Research Topic Due |
+| 7 | 3/10 | Divide & Conquer: Functions and Refactoring | Research Topic Due |
 | 8 | 3/17 | Review & Catch Up | Assignment 2.3 |
 | - | 3/24 | _No class (Spring Break)_ |  |
 | 9 | 3/31 | Eye Candy: p5.js & the Canvas. _Final Projects Assigned_ | Assignment 3.1 |
@@ -94,7 +94,6 @@ You grading will be broken into the following parts:
 | In-class Participation and Attitude | 20% |
 
 _Extra credit may be issued for participating in optional assignments or activities._
-
 
 ### Grading Standards
 
