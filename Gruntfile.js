@@ -25,7 +25,8 @@ module.exports = function(grunt) {
           templateContext: {
             title: '<%=pkg.title%>',
             styles: grunt.file.read("assets/styles.css"),
-            pkg: pkg
+            pkg: pkg,
+            pdfDownload: 'https://github.com/parsons-cc/syllabus/blob/master/pdf/<%=pdfOutputFilename%>.pdf?raw=true'
           }
         },
         files: {
