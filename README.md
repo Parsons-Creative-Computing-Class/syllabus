@@ -2,7 +2,7 @@ Creative Computing
 ==================
 
 Parsons The New School for Design  
-Spring 2014
+Spring 2015
 
 Course Info
 -----------
