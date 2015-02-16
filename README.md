@@ -11,7 +11,7 @@ Course Info
 * **Instructor:** Andy Dayton <[daytona1@newschool.edu](mailto:daytona1@newschool.edu)>
 * **Teaching Assistant** Alec McClure <[mccla636@newschool.edu](mailto:mccla636@newschool.edu)>
 * **Time:** Tuesdays, 3:50–6:30pm
-* **Location:** 63 Fifth Ave., L106
+* **Location:** 55 W 13th, Room 930
 
 ### Course Description
 
