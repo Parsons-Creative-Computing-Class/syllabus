@@ -8,7 +8,8 @@ Course Info
 -----------
 
 * **Course:** [PUCD 2035 B / CRN: 7043](https://alvin.newschool.edu/prbn/bwckschd.p_disp_detail_sched?term_in=201430&crn_in=7447)
-* **Instructor:** Andy Dayton
+* **Instructor:** Andy Dayton <[daytona1@newschool.edu](mailto:daytona1@newschool.edu)>
+* **Teaching Assistant** Alec McClure <[mccla636@newschool.edu](mailto:mccla636@newschool.edu)>
 * **Time:** Tuesdays, 3:50–6:30pm
 * **Location:** 63 Fifth Ave., L106
 
