@@ -28,59 +28,50 @@ _By the end of the semester, students should be able to:_
 5. Problem solve with other students
 6. Build on these skills for future work in their own design practice
 
-### Resources
+### Class Page
 
-We will build upon this list of resources on the class page as the semester continues. A few good starting points:
+As the semester continues, you should be able to find all of the information you need on the class page:
 
- - **Class page: http://parsons-cc.github.io/**
- - Stack Overflow: http://stackoverflow.com
- - Codepen: http://codepen.io
- - GitHub: http://github.com
- - A List Apart: http://www.alistapart.com/
+http://parsons-cc.github.io/
 
-### Readings
+When in doubt, check the class page!
 
-There is no specific textbook for the course, but I will assign readings that will be discussed in the following lab. Readings will be posted to the class website in PDF format.
 
 ### Required Materials
 
-  - Please bring a **fully-charged** laptop to every class
-  - You will need to install [Atom](http://atom.io) text editor on your computer
-  - You will need to install [Fetch](https://fetchsoftworks.com/fetch/download/) FTP Client on your computer (I can provide you with a Parsons serial number)
-  - You will need to sign up for a free [GitHub](http://github.com) account
-  - We may also use [git](http://git-scm.com/) at some point, but if so I will cover this in class
+Please bring a **fully-charged** laptop to every class.
 
 ### Attendance
 
-Per New School policy, 3 or more absences or excessive tardiness will result in a failing grade. If you need to miss class, please email me in advance.
+Per New School policy, 3 or more absences or excessive tardiness will result in a failing grade.
 
 ### Assignments
 
-In order to facilitate critiques and allow me to provide meaningful in-class feedback, **all completed assignments must be submitted at 12am the day they are due**. That means if your assignment is due for Tuesday's class, you need to turn it in by midnight Monday evening.
+In order to facilitate critiques and allow me to provide meaningful in-class feedback, **all completed assignments must be submitted at 12am the day they are due**. That means if your assignment is due for Friday's class, you need to turn it in on Thursday evening.
 
 Course Outline
 --------------
 
 Below is a rough outline of the semester, subject to change.
 
-| Week | Date | Topic/Activity | Assignments Due |
-| ----:|------|----------------|------------|
-| 1 | 1/27 | _Cancelled Due to Weather_ | - |
-| 2 | 2/3 | Introduction: Designing Programs, Cooking & Tasting | Assignment 1.1 |
-| 3 | 2/10 | Separation of Concerns: Form/Content/Behavior, CSS/HTML/JavaScript | Assignment 1.2 |
-| 4 | 2/17 | Programming Basics: Variables, Operators, Data Types, Input/Output | Assignment 1.3 |
-| 5 | 2/24 | Difference & Repetition: Loops, Conditionals, and Iteration | Assignment 2.1 |
-| 6 | 3/3 | Where the Rubber Meets the Road: jQuery & the DOM | Assignment 2.2 |
-| 7 | 3/10 | Divide & Conquer: Functions and Refactoring | Research Topic Due |
-| 8 | 3/17 | Review & Catch Up | Assignment 2.3 |
-| - | 3/24 | _No class (Spring Break)_ |  |
-| 9 | 3/31 | Eye Candy: p5.js & the Canvas. _Final Projects Assigned_ | Assignment 3.1 |
-| 10 | 4/7 | Data Discovery: AJAX, JSON, & APIs | Assignment 3.2 |
-| 11 | 4/14 | Assignment 3 Critique, Review  | Assignment 3.3 |
-| 12 | 4/21 | Research Presentations 1, Work Time | Research Project Due |
-| 13 | 4/28 | Research Presentations 1, Work Time | - |
-| 14 | 5/5 | Work Day | - |
-| 15 | 5/12 | Final Critiques | Final Projects Due |
+| Week | Date | Topic/Activity |
+| ----:|------|----------------|
+| 1 | 9/4 | Introduction |
+| 2 | 9/11 | Intro to JavaScript / Variables, Functions |
+| 3 | 9/18 | Data Types / Logical Operations |
+| 4 | 9/25 | Color / Geometry |
+| 5 | 10/2 | Loops & Conditionals / Animation |
+| 6 | 10/9 | Animation |
+| 7 | 10/16 | Midterm Exam |
+| 8 | 10/23 | Files & IDEs |
+| 9 | 10/30 | Advanced Functions |
+| 10 | 11/6 | Interactivity |
+| 11 | 11/13 | Working with Data |
+| 12 | 11/20 | Beyond p5 |
+| - | 11/27 | Thanksgiving |
+| 13 | 12/4 | Work Day |
+| 14 | 12/11 | Work Day |
+| 15 | 12/18 | Final Critiques |
 
 Grading
 --------
