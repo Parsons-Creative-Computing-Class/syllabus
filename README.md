@@ -7,10 +7,10 @@ Spring 2015
 Course Info
 -----------
 
-* **Course:** [PUCD 2035 B / CRN: 7043](https://alvin.newschool.edu/prbn/bwckschd.p_disp_detail_sched?term_in=201430&crn_in=7447)
+* **Course:** [PUCD 2035 D / CRN: 7043](https://alvin.newschool.edu/prbn/bwlkifac.P_FacSched?term_in=201510&crn=5730)
 * **Instructor:** Andy Dayton
-* **Time:** Tuesdays, 3:50–6:30pm
-* **Location:** 63 Fifth Ave., L106
+* **Time:** Fridays, 9:00 am - 11:40 am
+* **Location:** 6 East 16th Street 610
 
 ### Course Description
 
