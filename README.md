@@ -68,10 +68,10 @@ Below is a rough outline of the semester, subject to change.
 | 10 | 11/6 | Research & Development | Exquisite Corpse 2 | Cegłowski, "Web Design: The First 100 Years" |
 | 11 | 11/13 | Beyond p5.js I: Web Materials Revisited | Time 1 | TBD |
 | 12 | 11/20 | Beyond p5.js II: JavaScript Libraries | Time 2 | TBD |
-| - | 11/27 | Thanksgiving | | |
+| - | 11/27 | Thanksgiving | Final Project Prototype | |
 | 13 | 12/4 | Work Day | | Borges, "The Library of Babel" |
 | 14 | 12/11 | Work Day | | |
-| 15 | 12/18 | Final Critiques | | |
+| 15 | 12/18 | Final Critiques | Final Project | |
 
 
 Grading
