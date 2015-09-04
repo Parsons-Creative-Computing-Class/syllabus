@@ -57,8 +57,8 @@ Below is a rough outline of the semester, subject to change.
 | Week | Date | Topic/Activity | Assignment(s) Due | Readings Discussed |
 | ----:|------|----------------|----------------|--------------------|
 | 1 | 9/4 | Introduction | - |  -|
-| 2 | 9/11 | Web Materials / Functions & Variables | Drawing Machine 1 / _Account Setup_ | Ford, "What is Code" / Cage, "Some Rules for Students and Teachers" |
-| 3 | 9/18 | Advanced Debugging / Data Types, Logic & Loops | Exercises 1 / Drawing Machine 2 | Gerstner, _Designing Programmes_ |
+| 2 | 9/11 | Web Materials / Functions & Variables | Drawing Machine 1 / _Account Setup_ | Gerstner, _Designing Programmes_ |
+| 3 | 9/18 | Advanced Debugging / Data Types, Logic & Loops | Exercises 1 / Drawing Machine 2 | Ford, "What is Code" |
 | 4 | 9/25 | Drawing in Code / Color & Geometry | Exercises 2 / Drawing Machine 3 | Albers, _Interaction of Color_ |
 | 5 | 10/2 | Advanced Functions / Interactivity | Exercises 3 / Drawing Machine 4 | Petzold, _Code_ |
 | 6 | 10/9 | Animation / Review | Translation 1 | TBD |
