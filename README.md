@@ -2,40 +2,40 @@ Creative Computing
 ==================
 
 Parsons The New School for Design  
-Spring 2015
+Fall 2015
 
 Course Info
 -----------
 
 * **Course:** [PUCD 2035 D / CRN: 7043](https://alvin.newschool.edu/prbn/bwlkifac.P_FacSched?term_in=201510&crn=5730)
-* **Instructor:** Andy Dayton
+* **Instructor:** Andy Dayton / [daytona1@newschoo.edu](mailto:daytona1@newschoo.edu)
 * **Time:** Fridays, 9:00 am - 11:40 am
 * **Location:** 6 East 16th Street 610
 
 ### Course Description
 
-This course will introduce students to the building blocks of creative computing within the visual and media environment. Students will learn to create dynamic images, type and interfaces, that can translate into print, web and spatial forms. Through weekly problems, students will learn programming fundamentals that translate in virtually all programming platforms. Primary software platform: JavaScript.
-
+This course is designed to introduce students to programming as a creative medium—as a way of making and exploring. The coursework focuses on developing a vocabulary of interaction design principles that can then be applied across a range of platforms, rather than focusing on one specific programming language or framework. Students are encouraged to experiment with various media, tools, and techniques, ultimately producing a portfolio of interactive and visual projects designed for the screen. An emphasis is placed on research-based problem solving and a “learning through making” approach to technical skill building.
 
 ### Learning Outcomes
 
 _By the end of the semester, students should be able to:_
 
 1. Demonstrate knowledge of fundamental programming concepts
-2. Develop several visual & interactive projects using JavaScript
-3. Present their design process and workflow
+2. Develop several visual & interactive projects
+3. Objectively present their design process and workflow
 4. Integrate a variety of media elements into their projects
-5. Problem solve with other students
-6. Build on these skills for future work in their own design practice
+5. Problem solve with other students through reading other students’ code
+6. Demonstrate the ability to research and learn unfamiliar technical topics.
+7. Concept projects that use code in a creative way
+
 
 ### Class Page
 
 As the semester continues, you should be able to find all of the information you need on the class page:
 
-http://parsons-cc.github.io/
+http://cc.andydayton.com/
 
 When in doubt, check the class page!
-
 
 ### Required Materials
 
@@ -54,24 +54,25 @@ Course Outline
 
 Below is a rough outline of the semester, subject to change.
 
-| Week | Date | Topic/Activity |
-| ----:|------|----------------|
-| 1 | 9/4 | Introduction |
-| 2 | 9/11 | Intro to JavaScript / Variables, Functions |
-| 3 | 9/18 | Data Types / Logical Operations |
-| 4 | 9/25 | Color / Geometry |
-| 5 | 10/2 | Loops & Conditionals / Animation |
-| 6 | 10/9 | Animation |
-| 7 | 10/16 | Midterm Exam |
-| 8 | 10/23 | Files & IDEs |
-| 9 | 10/30 | Advanced Functions |
-| 10 | 11/6 | Interactivity |
-| 11 | 11/13 | Working with Data |
-| 12 | 11/20 | Beyond p5 |
-| - | 11/27 | Thanksgiving |
-| 13 | 12/4 | Work Day |
-| 14 | 12/11 | Work Day |
-| 15 | 12/18 | Final Critiques |
+| Week | Date | Topic/Activity | Assignment(s) Due | Readings Discussed |
+| ----:|------|----------------|----------------|--------------------|
+| 1 | 9/4 | Introduction | - |  -|
+| 2 | 9/11 | Web Materials / Functions & Variables | Drawing Machine 1 / _Account Setup_ | Ford, "What is Code" / Cage, "Some Rules for Students and Teachers" |
+| 3 | 9/18 | Advanced Debugging / Data Types, Logic & Loops | Exercises 1 / Drawing Machine 2 | Gerstner, _Designing Programmes_ |
+| 4 | 9/25 | Drawing in Code / Color & Geometry | Exercises 2 / Drawing Machine 3 | Albers, _Interaction of Color_ |
+| 5 | 10/2 | Advanced Functions / Interactivity | Exercises 3 / Drawing Machine 4 | Petzold, _Code_ |
+| 6 | 10/9 | Animation / Review | Translation 1 | TBD |
+| 7 | 10/16 | Midterm Exam / Conferences | Translation 2 | - |
+| 8 | 10/23 | Clouds to Circuits / Filesystems, Git, IDEs | _Software Installation_ | Galloway, _Protocol_ |
+| 9 | 10/30 | Information in Action / AJAX & APIs | Exquisite Corpse 1 | Gleick, _The Information_ |
+| 10 | 11/6 | Research & Development | Exquisite Corpse 2 | Cegłowski, "Web Design: The First 100 Years" |
+| 11 | 11/13 | Beyond p5.js I: Web Materials Revisited | Time 1 | TBD |
+| 12 | 11/20 | Beyond p5.js II: JavaScript Libraries | Time 2 | TBD |
+| - | 11/27 | Thanksgiving | | |
+| 13 | 12/4 | Work Day | | Borges, "The Library of Babel" |
+| 14 | 12/11 | Work Day | | |
+| 15 | 12/18 | Final Critiques | | |
+
 
 Grading
 --------
@@ -80,9 +81,12 @@ You grading will be broken into the following parts:
 
 | Assessment | % |
 |------------|--:|
-| In-class and Take-home Assignments | 40% |
-| Final Project | 40% |
-| In-class Participation and Attitude | 20% |
+| Take-home Assignments & Exercises | 45% |
+| Final Project | 25% |
+| Midterm Exam | 10% |
+| Daily Quizzes | 10% |
+| In-class Participation and Attitude | 10% |
+
 
 _Extra credit may be issued for participating in optional assignments or activities._
 
@@ -134,10 +138,6 @@ Parsons’ attendance guidelines were developed to encourage students’ success
 While attendance is just one aspect of active participation, absence from a significant portion of class time may prevent the successful attainment of course objectives. A significant portion of class time is generally defined as the equivalent of three weeks, or 20%, of class time. Lateness or early departure from class may be recorded as one full absence. Students may be asked to withdraw from a course if habitual absenteeism or tardiness has a negative impact on the class environment.
 
 Whether the course is a lecture, seminar or studio, faculty will assess each student’s performance against all of the assessment criteria in determining the student’s final grade.
-
-### Canvas
-
-Use of Canvas may be an important resource for this class. Students should check it for announcements before coming to class each week.  
 
 ### Delays
 
